@@ -3,10 +3,10 @@
 `npm start`
 
 //First API
-~{baseurl}/input1/:value~
+`{baseurl}/input1/:value`
 
 //Second API
-~{baseurl}/input2/:value~
+`{baseurl}/input2/:value`
 
 //Result
 #Output1.txt Output2.txt
